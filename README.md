@@ -26,6 +26,8 @@ Desejo a todos que possam estar lendo um bom momento.
 * Spear rush - jogo para gamejam de 3 dias com tema: "Apenas um". Não curto usar IA, mas ganhamos o primeiro lugar:
   https://arikleyton.github.io/GameJam2026/jogos/21/index.html
   Desenvolvido junto aos:
+ - https://github.com/kauevnn
+ - https://github.com/LuizH13
   
 
 
@@ -33,4 +35,4 @@ Desejo a todos que possam estar lendo um bom momento.
 
 
 - Contato:
-  * email: luizhenriquemazia@gmail.com
+  * email: luishenriquemazia@gmail.com
